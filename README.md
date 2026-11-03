@@ -181,6 +181,25 @@ My goal is to apply my technical training, cybersecurity projects, and professio
 
 **LinkedIn:** [David Jeffries](https://www.linkedin.com/in/david-jeffries001)
 
+## Advanced Threat Detection & SOAR Automation
+
+**Project:** [Advanced Threat Detection & SOAR](https://github.com/David31005/Advanced-Threat-Detection-SOAR)
+
+**Live Dashboard:** [Launch Security Operations Center](https://david31005.github.io/Advanced-Threat-Detection-SOAR/)
+
+Built a Python-based cybersecurity simulation featuring:
+
+- Automated brute-force and password-spraying detection
+- Security event correlation and risk scoring
+- MITRE ATT&CK technique mapping
+- Simulated incident response playbooks
+- Interactive Security Operations Center dashboard
+- Incident investigation, analyst notes, and JSON report export
+- GitHub Actions CI/CD with five passing automated tests
+
+**Technologies:** Python, JavaScript, HTML, CSS, GitHub Actions, JSON, MITRE ATT&CK.
+
+**Environment:** Simulated security data; no production systems affected.
 **Email:** David.jeffries@myyahoo.com
 
 ---
